@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, This is Jenish</h1>
+<h1 align="center">Hi 👋, This is Jenish Koladiya</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jenishkoladiya&label=Profile%20views&color=0e75b6&style=flat" alt="jenishkoladiya" /> </p>
